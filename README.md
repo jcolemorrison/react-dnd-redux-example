@@ -4,6 +4,8 @@ A simple example of hooking up [React Dnd](https://react-dnd.github.io/react-dnd
 
 To Startup simple pull it down and:
 
-a) `yarn start` (or `npm start` if that's your thing)
+a) run `yarn` (or `npm i`)
+
+b) `yarn start` (or `npm start` if that's your thing)
 
 [J Cole Morrison: Tech Guides and Tutorials](http://start.jcolemorrison.com/)
