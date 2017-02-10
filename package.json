@@ -1,0 +1,27 @@
+{
+  "name": "React Dnd and Redux Simple Example",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "flow-bin": "^0.38.0",
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dnd": "^2.2.3",
+    "react-dnd-html5-backend": "^2.2.3",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "flow": "flow; test $? -eq 0 -o $? -eq 2",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
