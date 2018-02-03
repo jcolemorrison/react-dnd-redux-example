@@ -1,5 +1,6 @@
 /* @flow */
-import React, { Component, PropTypes } from 'react'
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 import { DropTarget } from 'react-dnd'
 import { ItemTypes } from './constants'
 import Square from './Square'
